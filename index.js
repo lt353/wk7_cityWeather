@@ -3,7 +3,10 @@ Name: Lindsay Trenton
 Original Author: Debasis Bhattacharya
 Assignment: City Name Weather App with OpenWeather API
 
-Description: This code creates a Node.js server using Express, fetches weather data from the OpenWeather API based on a city name input, and displays the results on a webpage. What I have changed is from the professors original code is it uses my own API key (stored in secrets), it now searches by city name instead of zip code, and it outputs more information than previously (including humidity, feels like temperature, and wind speed).
+Description: This code creates a Node.js server using Express, fetches weather data from the OpenWeather API based on a city name input, 
+and displays the results on a webpage. What I have changed is from the professors original code is it uses my own API key (stored in secrets), 
+it now searches by city name instead of zip code, and it outputs more information than previously (including humidity, feels like temperature,
+and wind speed).
 
 Date: 2/26/2025
 Packages Used:
